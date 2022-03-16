@@ -1,7 +1,4 @@
 # Characterizing Alternative Monetization Strategies on YouTube
-This is a repository of data and code used in the paper "Characterizing Alternative Monetization Strategies on YouTube".
-
-# Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels
 
 This repo contains the data and the analysis done in the paper "Characterizing Alternative Monetization Strategies on YouTube".
 Please cite as:
