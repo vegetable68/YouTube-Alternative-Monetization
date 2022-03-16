@@ -7,9 +7,8 @@ This repo contains the data and the analysis done in the paper "Characterizing A
 Please cite as:
 
 ~~~bibtex
-@inproceedings{ribeiro2021migrations,
-    title={Do Platform Migrations Compromise Content Moderation? 
-        Evidence from r/The_Donald and r/Incels},
+@inproceedings{hua_ribeiro2022youtube,
+    title={Characterizing Alternative Monetization Strategies on YouTube},
     author={Hua, Yiqing, and
         Horta Ribeiro, Manoel and
         Ristenpart, Thomas and 
